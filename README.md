@@ -15,7 +15,8 @@ This repository provides the implementation of the Transformer-based MVTS Classi
 The models have been tested running under Python 3.9.7, with the required packages installed (see the requirements.txt for package details along with their dependencies). In addition, CUDA 11.1 in a Windows server has been used. 
 
 **Transformer-based MVTS Classification Framework**
-![Untitled Diagram](https://github.com/Kalshammari/MVTSFeatureSelection/assets/100083721/af186fea-b637-4f9f-91dd-d09f1a4d8660)
+![transformerblockmodel(3) drawio](https://github.com/Kalshammari/tramsformer-based/assets/100083721/646ec803-0f73-42d9-afc5-475829bb29c4)
+
 
 **Classification varying training set size**
 
