@@ -36,11 +36,11 @@ def load(file_name):
         obj = pickle.load(fp)
     return obj
 
-path = os.getcwd() #'/Users/fuad/Documents/GitHub/models'
+path = os.getcwd() 
 last_indx = path.rindex("/")
 
 # set project folder location where the models and data folder exist
-projectlocation = path[0:last_indx]# '/Users/fuad/Documents/GitHub'
+projectlocation = path[0:last_indx]
 
 #set data path and load data
 datapath = projectlocation + "/data/flare_prediction_mvts_data.pck"
