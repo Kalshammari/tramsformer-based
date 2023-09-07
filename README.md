@@ -1,5 +1,5 @@
 # tramsformer-based
-**Multivariate Time Series-based Solar Flare Prediction by Transformer and Attention-based Model**
+**End-to-End Attention/Transformer Model for Solar Flare Prediction from Multivariate Time Series Data**
 The code is an implementation of the Transformer and Attention-based Model for Multivariate Time Series-based Solar Flare Classification. It is implemented using PyTorch.
 **Overview**
 
