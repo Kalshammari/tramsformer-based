@@ -1,12 +1,12 @@
 # tramsformer-based
 **End-to-End Attention/Transformer Model for Solar Flare Prediction from Multivariate Time Series Data**
-The code is an implementation of the Transformer and Attention-based Model for Multivariate Time Series-based Solar Flare Classification. It is implemented using PyTorch.
+The code is an implementation of the Transformer and Attention-based Model for Multivariate Time Series-based Solar Flare Classification. It is implemented using Tensorflow.
 **Overview**
 
 This repository provides the implementation of the Transformer-based MVTS Classification Framework. The repository has:
 
     data/ contains the required dataset files.
-    Models/ contains the implementation of the LSTM-based MVTS Feature Selection Framework and baseline methods implementation.
+    Models/ contains the implementation of the Transformer and Attention-based Model for Multivariate Time Series classification Framework and baseline methods implementation.
     requirements.txt contains the libraries and tools needed to execute the models.
 
     
